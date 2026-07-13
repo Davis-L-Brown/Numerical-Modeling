@@ -1,2 +1,2 @@
-# MathToolkit
+# Interpolant
 C# Math Library
