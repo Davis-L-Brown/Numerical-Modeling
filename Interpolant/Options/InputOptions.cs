@@ -11,9 +11,9 @@ namespace Interpolant.Options
         /// Gets the duplicate coordinate specified by the consumer.
         /// </summary>
         /// <remarks>
-        /// This specifies what to do when duplicate input (x,y) coordinates
-        /// are passed into the interpolant.
+        /// Specifies how to handle duplicate input (x,y) coordinates
+        /// passed into the interpolant.
         /// </remarks>
-        public DuplicateCoordinatePolicy DuplicatePolicy { get; set; } = DuplicateCoordinatePolicy.Throw;
+        public DuplicateCoordinatePolicy DuplicatePolicy { get; set; }
     }
 }
