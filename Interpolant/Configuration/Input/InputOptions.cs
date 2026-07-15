@@ -1,6 +1,6 @@
-﻿using Interpolant.Congifuration.Input.Enums;
+﻿using Interpolant.Configuration.Input.Enums;
 
-namespace Interpolant.Congifuration.Input
+namespace Interpolant.Configuration.Input
 {
     /// <summary>
     /// Defines input options for an interpolator object.

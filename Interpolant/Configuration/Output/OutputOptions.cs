@@ -1,4 +1,4 @@
-﻿namespace Interpolant.Congifuration.Output
+﻿namespace Interpolant.Configuration.Output
 {
     /// <summary>
     /// Defines output options for an interpolator object.

@@ -1,8 +1,8 @@
-﻿using Interpolant.Congifuration.Input;
-using Interpolant.Congifuration.Output;
+﻿using Interpolant.Configuration.Input;
+using Interpolant.Configuration.Output;
 using System;
 
-namespace Interpolant.Congifuration
+namespace Interpolant.Configuration
 {
     /// <summary>
     /// Class responsible for resolving <see cref="InterpolantOptions"/>

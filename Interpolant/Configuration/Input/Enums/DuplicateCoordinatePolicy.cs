@@ -1,4 +1,4 @@
-﻿namespace Interpolant.Congifuration.Input.Enums
+﻿namespace Interpolant.Configuration.Input.Enums
 {
     /// <summary>
     /// Defines how the scattered interpolant should handle duplicate (x, y, z)

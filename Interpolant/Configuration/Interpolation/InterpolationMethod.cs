@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Interpolant.Congifuration.Interpolation
+namespace Interpolant.Configuration.Interpolation
 {
     /// <summary>
     /// Defines the interpolation method for query points inside of the 

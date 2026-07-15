@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Interpolant.Congifuration.Interpolation.Simplicial
+namespace Interpolant.Configuration.Interpolation.Simplicial
 {
     /// <summary>
     /// Defines the plane to associate with each simplex in the simplicial

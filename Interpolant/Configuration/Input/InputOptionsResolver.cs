@@ -1,7 +1,7 @@
-﻿using Interpolant.Congifuration.Input.Enums;
+﻿using Interpolant.Configuration.Input.Enums;
 using System;
 
-namespace Interpolant.Congifuration.Input
+namespace Interpolant.Configuration.Input
 {
     /// <summary>
     /// Class responsible for resolving <see cref="InputOptions"/>

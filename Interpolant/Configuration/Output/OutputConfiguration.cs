@@ -1,4 +1,4 @@
-﻿namespace Interpolant.Congifuration.Output
+﻿namespace Interpolant.Configuration.Output
 {
     /// <summary>
     /// Defines a resolved version of the consumer facing 

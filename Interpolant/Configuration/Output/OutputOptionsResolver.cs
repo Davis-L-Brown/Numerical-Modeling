@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Interpolant.Congifuration.Output
+namespace Interpolant.Configuration.Output
 {
     /// <summary>
     /// Class responsible for resolving <see cref="OutputOptions"/>

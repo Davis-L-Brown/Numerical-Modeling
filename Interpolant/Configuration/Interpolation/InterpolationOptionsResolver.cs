@@ -1,11 +1,9 @@
-﻿using Interpolant.Congifuration.Interpolation.Kriging;
-using Interpolant.Congifuration.Interpolation.RadialBasis;
-using Interpolant.Congifuration.Interpolation.Simplicial;
+﻿using Interpolant.Configuration.Interpolation.Kriging;
+using Interpolant.Configuration.Interpolation.RadialBasis;
+using Interpolant.Configuration.Interpolation.Simplicial;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Interpolant.Congifuration.Interpolation
+namespace Interpolant.Configuration.Interpolation
 {
     internal static class InterpolationOptionsResolver
     {

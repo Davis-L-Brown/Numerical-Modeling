@@ -1,4 +1,4 @@
-﻿namespace Interpolant.Congifuration.Interpolation
+﻿namespace Interpolant.Configuration.Interpolation
 {
     /// <summary>
     /// Defines the interpolation options for an interpolator object.

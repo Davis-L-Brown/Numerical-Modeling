@@ -1,6 +1,6 @@
-﻿using Interpolant.Congifuration.Input.Enums;
+﻿using Interpolant.Configuration.Input.Enums;
 
-namespace Interpolant.Congifuration.Input
+namespace Interpolant.Configuration.Input
 {
     /// <summary>
     /// Defines a resolved version of the consumer facing 

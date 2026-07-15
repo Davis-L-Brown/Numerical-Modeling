@@ -1,7 +1,7 @@
-﻿using Interpolant.Congifuration.Input;
-using Interpolant.Congifuration.Output;
+﻿using Interpolant.Configuration.Input;
+using Interpolant.Configuration.Output;
 
-namespace Interpolant.Congifuration
+namespace Interpolant.Configuration
 {
     /// <summary>
     /// Defines a resolved verion of the consumer facing 

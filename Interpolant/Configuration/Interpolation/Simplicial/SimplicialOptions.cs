@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Interpolant.Congifuration.Interpolation.Simplicial
+namespace Interpolant.Configuration.Interpolation.Simplicial
 {
     /// <summary>
     /// Defines a concrete instance of <see cref="IInterpolationOptions"/> for
