@@ -1,4 +1,6 @@
 # Numerical Modeling
 C# Math Library
-- Interpolation
-- Extrapolation
+Numerical Modeling Solution
+| - Interpolant
+|   | - Interpolation
+|   | - Extrapolation
