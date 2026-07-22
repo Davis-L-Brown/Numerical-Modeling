@@ -2,6 +2,7 @@
   <Project Path="Approximation/Approximation.csproj" Id="d55fec49-0f11-4686-9ba4-bb2f3e6d16fd" />
   <Project Path="Diagnostics/Diagnostics.csproj" Id="0532114a-8d2d-4eaf-b7ef-6729dec6d0a0" />
   <Project Path="Forecasting/Forecasting.csproj" Id="69e6345f-59d5-41e4-84c8-24251cbb7d54" />
+  <Project Path="Geometry.Tests/Geometry.Tests.csproj" Id="ba8b49a2-6784-4746-ac19-a387fffad347" />
   <Project Path="Geometry/Geometry.csproj" Id="dbdefbd3-03d1-438f-a55c-187e96a660c4" />
   <Project Path="Interpolant/Interpolant.csproj" />
   <Project Path="Resampling/Resampling.csproj" Id="8081b499-d143-4784-8ce6-23b648bd4f7e" />
