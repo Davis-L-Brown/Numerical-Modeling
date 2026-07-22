@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Geometry.Quantities.Angles;
+using System;
 
 namespace Geometry.Cartesian.Primitives.Triangles.Internal
 {
@@ -22,7 +23,7 @@ namespace Geometry.Cartesian.Primitives.Triangles.Internal
         /// <returns>
         /// The calculated angle.
         /// </returns>
-        public static double GetInteriorAngle(
+        public static Angle GetInteriorAngle(
             double leftAdjacentLength,
             double rightAdjacentLength,
             double oppositeLength)
@@ -40,7 +41,7 @@ namespace Geometry.Cartesian.Primitives.Triangles.Internal
 
             cosine = Math.Min(1.0, Math.Max(-1.0, cosine));
 
-            return Math.Acos(cosine);
+            return Angle.FromRadians(Math.Acos(cosine));
         }
     }
 }

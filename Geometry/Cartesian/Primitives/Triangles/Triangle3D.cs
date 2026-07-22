@@ -3,6 +3,7 @@ using Geometry.Cartesian.Primitives.LineSegments;
 using Geometry.Cartesian.Primitives.Triangles.Exceptions;
 using Geometry.Cartesian.Primitives.Triangles.Internal;
 using Geometry.Cartesian.Primitives.Vectors;
+using Geometry.Quantities.Angles;
 using System;
 
 namespace Geometry.Cartesian.Primitives.Triangles
@@ -29,13 +30,13 @@ namespace Geometry.Cartesian.Primitives.Triangles
 
 
         /// <inheritdoc/>
-        public double Theta1 { get; }
+        public Angle Theta1 { get; }
 
         /// <inheritdoc/>
-        public double Theta2 { get; }
+        public Angle Theta2 { get; }
 
         /// <inheritdoc/>
-        public double Theta3 { get; }
+        public Angle Theta3 { get; }
 
 
         /// <summary>

@@ -1,5 +1,6 @@
 ﻿using Geometry.Cartesian.Points;
 using Geometry.Cartesian.Primitives.LineSegments;
+using Geometry.Quantities.Angles;
 
 namespace Geometry.Cartesian.Primitives.Triangles
 {
@@ -36,17 +37,17 @@ namespace Geometry.Cartesian.Primitives.Triangles
         /// <summary>
         /// The angle corresponding to <see cref="V1"/>.
         /// </summary>
-        double Theta1 { get; }
+        Angle Theta1 { get; }
 
         /// <summary>
         /// The angle corresponding to <see cref="V2"/>.
         /// </summary>
-        double Theta2 { get; }
+        Angle Theta2 { get; }
 
         /// <summary>
         /// The angle corresponding to <see cref="V3"/>.
         /// </summary>
-        double Theta3 { get; }
+        Angle Theta3 { get; }
 
 
         /// <summary>
