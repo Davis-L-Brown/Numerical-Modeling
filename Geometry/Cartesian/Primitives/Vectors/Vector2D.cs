@@ -73,8 +73,8 @@ namespace Geometry.Cartesian.Primitives.Vectors
         public static double Dot(Vector2D left, Vector2D right)
         {
             return
-                (left.X * right.Y) +
-                (left.Y * right.X);
+                (left.X * right.X) +
+                (left.Y * right.Y);
         }
 
         /// <summary>

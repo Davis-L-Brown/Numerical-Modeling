@@ -52,6 +52,7 @@ namespace Geometry.Cartesian.Primitives.Vectors
                 end.Z - start.Z);
         }
 
+
         #region Operators
         /// <summary>
         /// Returns a normalized copy of the vector.
@@ -76,8 +77,8 @@ namespace Geometry.Cartesian.Primitives.Vectors
         public static double Dot(Vector3D left, Vector3D right)
         {
             return
-                (left.X * right.Y) +
-                (left.Y * right.X) + 
+                (left.X * right.X) +
+                (left.Y * right.Y) + 
                 (left.Z * right.Z);
         }
 
@@ -205,6 +206,7 @@ namespace Geometry.Cartesian.Primitives.Vectors
         #endregion
 
         #endregion
+
 
         public override int GetHashCode()
         {
